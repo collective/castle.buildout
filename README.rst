@@ -2,7 +2,7 @@
 Castle CMS installer
 ====================
 
-This is an attempt to git castle.cms up and running
+This is an attempt to get castle.cms up and running
 
 
 As stated in the README of castle.cms:
